@@ -40,8 +40,8 @@ Métricas: mean, min, max, std, p10, p90, custom metric
 Librerías: geopandas, rasterio, rasterstats, rioxarray, streamlit
 
 ## Enlace de la aplicación
-La app pública está disponible en:
-"URL PENDIENTE"
+Disponible en:
+https://assignment-3-group10.streamlit.app/
 
 ## Integrantes del grupo:
 GRUPO 10
