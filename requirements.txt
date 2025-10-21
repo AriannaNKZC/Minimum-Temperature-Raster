@@ -7,13 +7,4 @@ pyproj
 matplotlib
 pandas
 numpy
-streamlitgeopandas
-rasterio
-rasterstats
-rioxarray
-shapely
-pyproj
-matplotlib
-pandas
-numpy
 streamlit
